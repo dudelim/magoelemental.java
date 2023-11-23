@@ -1,4 +1,4 @@
-# magoelemental.java
+# magoelemental.java (utilizando sobrecarga)
 
 Você foi contratado para produzir o comportamento de uma certa arma num jogo de mago. 
 - A arma terá comportamentos diferentes dependendo do tipo de combinação de pedras elementos que ela receber.
