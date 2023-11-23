@@ -10,6 +10,6 @@ Combinações possíveis:
 - Fogo e terra = lava
 - Terra e água = planta
 - Água e ar = neve
-- 
+
 Você deve criar uma classe Cajado que tenha um método executarPoderElemental(). Ele receberá duas referências dessas pedras. 
 - Testar todas as possibilidades no Main.
